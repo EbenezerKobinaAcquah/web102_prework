@@ -20,8 +20,16 @@ body {
 }
 
 .stats-container {
-    display: flex;
+    display: flex; /* Enables flexbox layout */
+    align-items: center; /* Vertically centers content */
+    justify-content: space-around; /* Distributes items evenly with space around */
 }
+
+.stats-container:hover {
+    cursor: pointer; /* Changes cursor to pointer on hover */
+    box-shadow: 0 0 30px lightblue; /* Adds a glowing light-blue shadow */
+}
+
 
 .stats-card {
     background-color: #a8b0bc;
