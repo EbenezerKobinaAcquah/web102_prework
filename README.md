@@ -23,7 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video src='web102_prework_f.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough'></video>
+<video src='https://github.com/user-attachments/assets/1b20dd55-c9e7-4c03-a877-3c71bf643ef0' title='Video Walkthrough' width='' alt='Video Walkthrough'></video>
+
+
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -38,7 +42,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Ebenezer Kobina Acquah]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
